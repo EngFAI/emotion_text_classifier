@@ -1,0 +1,11 @@
+Text,True_Emotion,Predicted_Emotion,Top1,Prob1,Top2,Prob2,Top3,Prob3
+validated must feel strange likely way feel,fear,surprise,surprise,0.929,fear,0.068,joy,0.002
+really feel dont know faithful,joy,love,love,0.873,joy,0.120,sadness,0.003
+super excited leaving cause feel like everyone cousin knew much hated,sadness,anger,anger,0.435,sadness,0.319,joy,0.208
+always feel hated nothing control always want control thinking fault im hated,sadness,anger,anger,0.829,sadness,0.169,joy,0.001
+would go numb feel agitated humanness mine could watch tv,fear,anger,anger,0.807,fear,0.149,sadness,0.041
+attacked teenage boy wallet stolen,fear,anger,anger,0.692,fear,0.119,joy,0.077
+knew nineteen year since last movie indiana jones last crusade feeling lucas spielberg going try make movie would satisfy faithful attract whole new fan base well,joy,love,love,0.704,joy,0.239,sadness,0.025
+enjoy freedom making decision enjoy feeling supporting enjoy feeling accomplishing thing within hobby,love,joy,joy,0.591,love,0.379,sadness,0.016
+im going motion feeling exhausted frustrated irritable,sadness,anger,anger,0.945,sadness,0.054,fear,0.000
+feeling pretty stressed work school needed talk someone,sadness,anger,anger,0.708,sadness,0.246,joy,0.024
