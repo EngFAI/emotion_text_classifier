@@ -124,5 +124,4 @@ A simple desktop application (`einference_emotion_diary_app.py`) built with PyQt
 ## 👩‍💻 Author
 
 **EngFAI**  
-> Computer Engineer passionate about AI and machine learning  
 > GitHub: [EngFAI](https://github.com/EngFAI)
